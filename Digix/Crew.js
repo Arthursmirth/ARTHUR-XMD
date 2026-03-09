@@ -74,7 +74,7 @@ async function connectToWhatsapp(handleMessage) {
 ╔══════════════════╗
       *ARTHUR Bot Connected Successfully* 🚀
 ╠══════════════════╣
-> "Always Forward. ARTHUR-TECH, one of the best."
+> "Always Forward.ARTHUR-TECH, one of the best."
 ╚══════════════════╝
 
 *Arthur TECH*
