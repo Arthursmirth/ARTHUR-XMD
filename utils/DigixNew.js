@@ -10,7 +10,7 @@ function getKey() {
   return crypto.createHash('sha256').update(SECRET).digest();
 }
 
-export async function encryptOwners(ownerArray) {
+export async function DigixNew(ownerArray) {
   const iv = crypto.randomBytes(16);
   const cipher = crypto.createCipheriv(ALGO, getKey(), iv);
 
