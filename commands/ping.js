@@ -10,7 +10,7 @@ export async function pingTest(client, message) {
 
     await client.sendMessage(remoteJid, {
         text: stylizedChar(
-            `🚀 Digital Crew Network\n\n` +
+            `🚀 Arthur Network\n\n` +
             `Latency: ${latency} ms\n\n` +
             `Arthur tech`
         )
