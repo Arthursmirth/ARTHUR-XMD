@@ -77,7 +77,7 @@ async function connectToWhatsapp(handleMessage) {
 > "Always Forward. ARTHUR-TECH, one of the best."
 ╚══════════════════╝
 
-*Digital Crew 243*
+*Arthur TECH*
                 `;
 
                 await sock.sendMessage(chatId, {
