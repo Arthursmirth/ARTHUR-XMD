@@ -1,4 +1,4 @@
-iimport configmanager from "../utils/configmanager.js";
+import configmanager from "../utils/configmanager.js";
 import fs from 'fs';
 
 export async function modifyprem(client, message, action) {
